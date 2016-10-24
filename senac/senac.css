@@ -1,0 +1,494 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0 auto;
+}
+
+header#principal{
+	width:1170px;
+	height: 250px;
+	background-color: #f5f5f5;
+}
+
+header section#topo{
+	width: 100%;
+	height: 30px;
+	background-color: #004B97;
+}
+
+header section#menu{
+	width: 100%;
+	height: 30px;
+	background-color: #002753;
+}
+
+section#todo{
+	width: 1170px;
+	height: 04px;
+	background-color: #187E8A;
+}
+
+aside#logo{
+	width: 236px;
+	background: #999;
+	height: 120px;
+	float:left;
+
+
+}
+aside#cursos{
+	width: 746px;
+	background-color: #888;
+	height: 120px;
+	float:right;
+}
+
+
+#navegacao{
+	float:left;
+}
+#conteudo{ /*trasso azul*/
+	float:right;
+	margin:30px 0px 0px 0px;
+}
+
+#quadrado{
+     float: left;
+    clear: both;
+    width: 235px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin:21px 21px 21px 10px; 
+	
+} 
+#qua{
+    float: left;
+    width: 210px;
+    height: 50px;
+    border-top: 3px solid #ff7f00;
+    margin: 21px 21px 21px 10px;
+}
+
+
+#slideshow{  /*quadrado roxo*/
+    float: left;
+	clear: both;
+	width: 746px;
+	background-image: url(imagem/62344.jpg);
+	height: 200px;
+	margin: 0px 21px 21px 8px;
+
+}
+
+#noticias{
+	width: 746px;
+    margin: 0px 0px 0px 8px;
+}
+
+#noticia1, #desafios{
+	width: 373px;
+	height: 210px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+
+#noticia1{
+	float: left;
+	background-color: yellow;
+	width:373px;
+	height:210px;
+	margin: 0px 0px 0px 0px ;
+
+}
+#desafios{
+
+	float: left;
+    background-color: red;
+	width:373px;
+	height:210px;
+	
+	margin: 0px 0px 0px 0px;
+}
+#font{ 
+    font-weight: normal;
+    padding: 0px;
+    margin: 3px 0px 0px 0px;
+    color: #ff7f00;
+    font-size: 14px;
+    margin: 215px 0px 0px 0px;
+
+
+}
+#fonte {
+    font-family: Tahoma, Verdana;
+    font-size: 12px;
+    color: #666666;
+    text-decoration: none;
+}
+#pmi{
+	
+	float: left;
+	background-image: url(imagem/20151018134433605.jpg);
+		width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px
+
+}
+#organicao{
+	float: left;
+	background-image: url(imagem/20160914114226374.jpg);
+    width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+
+}
+#fontes{
+    font-weight: normal;
+    padding: 0px;
+    margin: 3px 0px 0px 0px;
+    color: #ff7f00;
+    font-size: 14px;
+    margin: 105px 0px 0px 0px
+}
+
+
+#sustentabilidade{
+
+	float: left;
+	background-image: url(imagem/20160910091646106.jpg);
+    width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+}
+#saude{
+
+    float: left;
+	background-image: url(imagem/20160830110656373.jpg);
+    width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+}
+#audio{
+	float: left;
+	background-image: url(imagem/20160829155956672.jpg);
+    width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+
+}
+#gestao{
+	float: left;
+	background-image: url(imagem/20160827162643203.jpg);
+    width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+  
+
+}
+#c{
+
+    float: left;
+	background-image: url(imagem/00304820150826174327.jpg);
+	width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+}
+#fonter{
+    text-decoration: none;
+    color: #ff7f00;
+        font-family: Tahoma, Verdana;
+    font-size: 12px;
+    margin: 106px 0px 0px 0px ;
+}
+#fon{
+    font-family: tahoma,verdana,arial;
+        font-size: 12px;
+    color: #777;
+}
+#for{font-family: tahoma,verdana,arial;
+        font-size: 11px;
+    color: #ff7f00;
+    margin: 106px 0px 0px 0px ;
+
+}
+#b{
+	float: left;
+	background-image: url(imagem/00339520160321121722.jpg);
+		width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+
+}
+#a{
+	float: left;
+	background-image: url(imagem/00376620160808093533.jpg);
+	width: 235px;
+    height: 100px;
+    margin: 73px 0px 0px 13px ;
+    }
+
+    #d{
+    	    float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color:#CD853F;
+     margin: 2px 0px 0px 10px; 
+
+        
+    }
+    #e{
+            float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color: #FF8C00;
+     margin: 2px 0px 0px 10px;  
+   }
+   #f{
+            float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color: #FFA500;
+     margin: 2px 0px 0px 10px;  
+   }
+   #g{
+            float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color: #00BFFF;
+     margin: 2px 0px 0px 10px;  
+   }
+   #h{
+            float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color: #555555;;
+     margin: 2px 0px 0px 10px;  
+   }
+   #i{
+            float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color: #0000CD;
+     margin: 2px 0px 0px 10px;  
+   }
+   #j{
+            float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color: #191970;
+     margin: 2px 0px 0px 10px;  
+   }
+
+    #k{
+
+    float: left;
+    width: 233px;
+    height: 56px;
+    margin-right: 8px;
+    background-color: #DCDCDC;
+     margin: 20px 0px 0px 10px;
+
+    }
+    #l{
+        float: left;
+    width: 235px;
+    height: 182px;
+    border: 1px solid #ddd;
+     margin: 20px 0px 0px 10px;
+    }
+
+    #m{
+    float: left; 
+    width: 150px;
+    height: 80px;
+    background-image: url(imagem/61671.jpg);
+    margin: 50px 0px 0px 300px;
+    
+    }
+    #n{
+    float: left; 
+    width: 150px;
+    height: 80px;
+    background-image: url(imagem/61672.jpg);
+    margin: 50px 0px 0px 10px;
+    
+    }
+    #o{
+    float: left; 
+    width: 150px;
+    height: 80px;
+    background-image: url(imagem/61675.jpg);
+    margin: 50px 0px 8px 10px;
+    
+    }
+    #p{
+    float: left; 
+    width: 150px;
+    height: 80px;
+    background-image: url(imagem/62845.jpg);
+    margin: 50px 0px 8px 10px;
+    
+    }
+    #q{
+           float: left; 
+    width: 150px;
+    height: 80px;
+    background-image:url(imagem/61676.jpg);
+    margin: 50px 0px 8px 10px;
+    
+    }
+    #u{
+    float: left; 
+    width: 150px;
+    height: 80px;
+    background-image: url(imagem/61674.jpg);
+    margin: 50px 8px 0px 10px;
+    
+    }
+
+    table#rodape{
+        
+    	width:100%;
+         height:291px;
+    	background-color: #00008B;
+        margin: 1330px 0px 0px 00px
+        
+    }
+
+    table#rodape1{
+    	width:100%; 
+        height:50px;
+    	background-color: #0000CD;
+        margin: 0px 0px 0px 0px
+
+    }
+
+    #bordar
+    {
+    float: left; 
+    width: 100%; 
+    text-align: right; 
+     border-top: 1px solid #eaeaea; 
+}
+#linha{
+            float: left;
+    width: 100%;
+    height: 6px;
+    border-top: 3px solid #EAEAEA;
+    margin: 69px 0px 0px 0px;
+}
+#linhaa
+    {
+            float: left;
+    width: 100%;
+    height: 6px;
+    border-top: 3px solid #EAEAEA;
+    margin: 44px 0px 0px 0px;
+}
+
+
+    
+    #linha1
+    {
+            float: left;
+    width: 100%;
+    height: 6px;
+    border-top: 3px solid #EAEAEA;
+    margin: 78px 0px 0px 0px;
+}
+
+#linhatext
+{
+        font-size: 18px;
+    color: #00478b;
+    font-weight: normal;
+    padding: 0px;
+    margin: 0px;
+    margin: 30px 0px 0px 0px;
+    font-family: tahoma,verdana,arial;
+}
+#fontj{
+    font-size: 15px;
+    color: #F5F5F5;
+    font-weight: normal;
+    padding: 0px;
+    margin: 0px;
+    margin: 20px 0px 0px 10px;
+    font-family: tahoma,verdana,arial;
+}
+#risco{
+clear: both;
+    width: 0px;
+    height: 30px;
+    border: 5px solid #696969;
+    margin: 8px 21px 21px 210px;
+}
+#risco2{
+    float:left;
+clear: both;
+    width: 0px;
+    height: 30px;
+    border: 5px solid #808080;
+   margin: -59px 21px 21px 195px;
+}
+#risco3{
+    float:left;
+clear: both;
+    width: 0px;
+    height: 30px;
+    border: 5px solid #C0C0C0;
+   margin: -59px 21px 21px 180px;
+}
+#risco4{
+    float:left;
+clear: both;
+    width: 0px;
+    height: 30px;
+    border: 5px solid #D3D3D3;
+   margin: -59px 21px 21px 165px;
+}
+#risco5{
+    font-size: 12px;
+    color: blue;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+    margin: -57px 0px 0px 6px;
+    font-family: tahoma,verdana,arial;
+}
+#risco6{
+    font-size: 12px;
+    color: blue;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+    margin: 0px 0px 0px 6px;
+    font-family: tahoma,verdana,arial;
+}
+#risco7{
+    float:left;
+clear: both;
+    width: 0px;
+    height: 40px;
+    border: 3px solid #f67c00;
+   margin: 10px 21px 21px 10px;
+}
+#rifonte{
+    font-size: 10px;
+    color: #666;
+       padding: 0px;
+    margin: 0px; 
+     margin: 10px 21px 21px 12px;
+     font-family: tahoma,verdana,arial;
+}

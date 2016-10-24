@@ -76,15 +76,14 @@ aside#cursos{
 	background-color: red;
 }
 
+
+div.noticias{
+	height:100px; 
+	width:238px;
+	float:left;
+	display:block;
+}
+
 #saude{
-	width: 373px;
-	height: 210px;
-	background-color: #FE1A1A;
-
-}
-#mercado{
-
-}
-#saude1{
-
+	background-color:#0E3AF7 ;
 }

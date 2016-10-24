@@ -4,7 +4,7 @@
 }
 body{
 	margin:0 auto;
-	width: 940px;
+	width: 1200px;
 	font-size: 13px;
 	font-family: Verdana;
 }
@@ -19,7 +19,9 @@ article {
 }
 
 h1{
+
 	text-align: center;
+	
 }
 
 nav ul {
@@ -27,20 +29,21 @@ nav ul {
 }
 
 nav ul li {
-	float:left; /*ficar uma do lado da outra*/
+	float:left;
 }
 
 nav ul li a {
-	display:block;
+	display:block; /*ficar em bloco*/
 	height: 30px; /* altura */
 	padding: 0 30px; /* espaçamento */
 	float:left; /* flutuar a esquerda */
-	font-size: 14px;
+	font-size: 20px;
 	line-height: 30px; /* altura da linha */
 	text-align: center; /* alinhamento do texto */
 	text-decoration: none; /* retirar sublinhado dos links */
 	color:#000;
 	font-weight: bold ; /* negrito */
+
 }
 
 nav ul li a:hover { /* passar o mouse em cima do li a */
@@ -54,6 +57,7 @@ nav ul li a.selecionado{
 	height: 30px; /* altura da tag */
 	line-height: 30px; /* altura da linha */
 	margin-top:2px;	/* uma pequena margin do Título */
+
 }
 
 
